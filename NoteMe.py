@@ -121,7 +121,7 @@ class Notepad:
         # exit()
  
     def __showAbout(self):
-        showinfo("Notepad","Mrinal Verma")
+        showinfo("Notepad","This NotePad is designed by Ayush Raj using Tkinter.")
  
     def __openFile(self):
          
